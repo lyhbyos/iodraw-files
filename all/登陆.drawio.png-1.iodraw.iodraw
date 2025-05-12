@@ -23,6 +23,9 @@
             <mxPoint x="-3" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="5ilKoRTNSDUaJv_N_Lp5-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ilKoRTNSDUaJv_N_Lp5-28" target="5ilKoRTNSDUaJv_N_Lp5-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5ilKoRTNSDUaJv_N_Lp5-28" value="web服务器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="150" width="120" height="60" as="geometry" />
         </mxCell>
@@ -34,9 +37,6 @@
             <mxPoint x="570" y="340" as="sourcePoint" />
             <mxPoint x="650" y="340" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="5ilKoRTNSDUaJv_N_Lp5-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.431;entryY=0.961;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5ilKoRTNSDUaJv_N_Lp5-28" target="5ilKoRTNSDUaJv_N_Lp5-28">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
