@@ -37,8 +37,12 @@
         <mxCell id="5ilKoRTNSDUaJv_N_Lp5-9" value="登录成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="327" y="585" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5ilKoRTNSDUaJv_N_Lp5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.477;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5ilKoRTNSDUaJv_N_Lp5-4" target="5ilKoRTNSDUaJv_N_Lp5-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="5ilKoRTNSDUaJv_N_Lp5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ilKoRTNSDUaJv_N_Lp5-4" target="5ilKoRTNSDUaJv_N_Lp5-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="382" y="470" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
