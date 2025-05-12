@@ -7,7 +7,7 @@
         <mxCell id="5ilKoRTNSDUaJv_N_Lp5-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="344" y="90" width="86" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5ilKoRTNSDUaJv_N_Lp5-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5ilKoRTNSDUaJv_N_Lp5-2" value="输入用户名密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="327" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5ilKoRTNSDUaJv_N_Lp5-3" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
