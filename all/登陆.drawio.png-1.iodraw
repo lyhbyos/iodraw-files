@@ -14,9 +14,9 @@
           <mxGeometry x="320.5" y="240" width="133" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5ilKoRTNSDUaJv_N_Lp5-4" value="判断密码是否为空" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="347" y="350" width="80" height="80" as="geometry" />
+          <mxGeometry x="333.5" y="350" width="107" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5ilKoRTNSDUaJv_N_Lp5-5" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5ilKoRTNSDUaJv_N_Lp5-5" value="检查用户名与密码是否正确匹配" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="347" y="460" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5ilKoRTNSDUaJv_N_Lp5-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
