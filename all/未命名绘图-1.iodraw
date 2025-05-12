@@ -23,13 +23,13 @@
           <mxGeometry x="480" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8XaGc0MIdQe-BG9-TXiW-7" value="s阿萨斯" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;resizable=1;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="600" y="315" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="315" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="8XaGc0MIdQe-BG9-TXiW-8" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;resizable=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="600" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8XaGc0MIdQe-BG9-TXiW-9" value="" style="rhombus;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;resizable=1;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="500" y="305" width="80" height="80" as="geometry" />
+        <mxCell id="8XaGc0MIdQe-BG9-TXiW-9" value="i科技计划" style="rhombus;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;resizable=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="450" y="285" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
