@@ -24,7 +24,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5ilKoRTNSDUaJv_N_Lp5-28" value="web服务器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5ilKoRTNSDUaJv_N_Lp5-29" value="数据库检索" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="300" width="120" height="60" as="geometry" />
