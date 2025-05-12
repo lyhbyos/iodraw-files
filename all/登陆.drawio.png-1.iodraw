@@ -14,7 +14,13 @@
           <mxGeometry x="320.5" y="240" width="133" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5ilKoRTNSDUaJv_N_Lp5-4" value="判断密码是否为空" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="333.5" y="350" width="107" height="80" as="geometry" />
+          <mxGeometry x="316.5" y="350" width="130.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5ilKoRTNSDUaJv_N_Lp5-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ilKoRTNSDUaJv_N_Lp5-5" target="5ilKoRTNSDUaJv_N_Lp5-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ilKoRTNSDUaJv_N_Lp5-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ilKoRTNSDUaJv_N_Lp5-5" target="5ilKoRTNSDUaJv_N_Lp5-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5ilKoRTNSDUaJv_N_Lp5-5" value="检查用户名与密码是否正确匹配" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="278.5" y="470" width="217" height="80" as="geometry" />
